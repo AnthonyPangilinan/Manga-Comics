@@ -1,10 +1,9 @@
-# Food Order App
+# Manga Comics App
 
 React Native
 UI
 
 <p align="center" flexdirection="coloumn">
-<img src='./src/database/images/foodappdetails.png' width="100%">
 </p>
  
 
