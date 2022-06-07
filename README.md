@@ -21,4 +21,4 @@ Documentation (Word Document)
 
 Presentation (Powerpoint)
 
-- [file:///D:/Downloads/Manga-Comic-Compact.pdf](https://www.canva.com/design/DAFC7Db1mGQ/u3KHRHafnEckcFa0LOLQMg/edit?utm_content=DAFC7Db1mGQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton&fbclid=IwAR2IFTn3oxjzReGjoH1tUVsQEiTM90VojaDOgcq6HOiq6Euubq0Qp5FVR5I)
+- https://drive.google.com/file/d/1CyyBk6QwoZF8JuXZI9JPSkmJzIhh7UFK/view?fbclid=IwAR2D9iQ7Wtv6AkrGDFJ27eXmHz7WkVSS7iZoXmlWCWNEmO1yoQV9mKsPG0shttps://drive.google.com/file/d/1CyyBk6QwoZF8JuXZI9JPSkmJzIhh7UFK/view?fbclid=IwAR2D9iQ7Wtv6AkrGDFJ27eXmHz7WkVSS7iZoXmlWCWNEmO1yoQV9mKsPG0s
