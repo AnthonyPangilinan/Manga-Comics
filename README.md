@@ -3,9 +3,10 @@
 React Native
 UI
 
-<p align="center" flexdirection="coloumn">
-</p>
- 
+<Image
+          style={{ width: 500, height: 200 }}
+          resizeMode="contain"
+          source={{ uri: 'https://leosigh.com/wp-content/uploads/2022/03/Marin-dressed-as-Liz-kyun-in-My-Dress-Up-Darling-Episode-11-520x293.jpg' }}
 
 Thanks for being here!
 
