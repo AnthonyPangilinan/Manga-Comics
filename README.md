@@ -4,7 +4,8 @@ React Native
 UI
 
 <p align="center" flexdirection="coloumn">
-<img src='D:\Documents\Comic.PNG' width="100%">
+<img src='![Comic](https://user-images.githubusercontent.com/106984295/172386186-4dca4f4c-62e2-426b-be9e-7c79f3b1ca5d.PNG)
+' width="100%">
 </p>
 
 Thanks for being here!
