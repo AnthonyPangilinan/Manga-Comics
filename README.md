@@ -13,11 +13,11 @@ Video Demo Application
 - [https://drive.google.com/file/d/11CiBvO0HfsWUKPUZfLpa57Y6eKIsruBk/view?usp=sharing](https://drive.google.com/file/d/1GgCOzif6bGVfzPlVKqYGPCzm8EWz7EKZ/view?fbclid=IwAR0N5nCGHpv7o2_xkycnUKZ1uJszp3-0cXv7giwWrcb-1R747HbhcX3V30c)
 
 -Video Demo PPT
--
+- https://drive.google.com/drive/folders/10GiCNTGHbfOUx7ScvdRUj_tz0WZfoq-s?fbclid=IwAR00JwjmsmUNkB7Jjrkvr0PGn5jp7T_9kWENtfa4EJzk8whShUJloqMCwVw
 
 Documentation (Word Document)
 
-- file:///D:/Downloads/Group-4-Final-Project-Documentation.pdf
+- [file:///D:/Downloads/Group-4-Final-Project-Documentation.pdf](https://drive.google.com/drive/folders/10GiCNTGHbfOUx7ScvdRUj_tz0WZfoq-s?fbclid=IwAR00JwjmsmUNkB7Jjrkvr0PGn5jp7T_9kWENtfa4EJzk8whShUJloqMCwVw)
 
 Presentation (Powerpoint)
 
