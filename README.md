@@ -5,19 +5,20 @@ UI
 
 ![Comic](https://user-images.githubusercontent.com/106984295/172386186-4dca4f4c-62e2-426b-be9e-7c79f3b1ca5d.PNG)
 
-Thanks for being here!
 
 
 ## You can watch the video below.
 
-Video Demo
+Video Demo Application
+- [https://drive.google.com/file/d/11CiBvO0HfsWUKPUZfLpa57Y6eKIsruBk/view?usp=sharing](https://drive.google.com/file/d/1GgCOzif6bGVfzPlVKqYGPCzm8EWz7EKZ/view?fbclid=IwAR0N5nCGHpv7o2_xkycnUKZ1uJszp3-0cXv7giwWrcb-1R747HbhcX3V30c)
 
-- https://drive.google.com/file/d/11CiBvO0HfsWUKPUZfLpa57Y6eKIsruBk/view?usp=sharing
+-Video Demo PPT
+-
 
 Documentation (Word Document)
 
-- https://docs.google.com/document/d/1BSskNkcoiif4S_H7zFnzwZz5fK7LCkh9GaIOmHIATr4/edit?usp=sharing
+- file:///D:/Downloads/Group-4-Final-Project-Documentation.pdf
 
 Presentation (Powerpoint)
 
-- https://docs.google.com/presentation/d/19-pBFH3Ca4dZa1H0tJ600T5H1zRWkSs5/edit?usp=sharing&ouid=109108887119013813692&rtpof=true&sd=true
+- [file:///D:/Downloads/Manga-Comic-Compact.pdf](https://www.canva.com/design/DAFC7Db1mGQ/u3KHRHafnEckcFa0LOLQMg/edit?utm_content=DAFC7Db1mGQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton&fbclid=IwAR2IFTn3oxjzReGjoH1tUVsQEiTM90VojaDOgcq6HOiq6Euubq0Qp5FVR5I)
